@@ -8,7 +8,7 @@ License: GNU General Public License v3.0
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 Stable tag: 1.3.0
 
-# Terachat Notifications DLM Extension
+# Terachat Notifications Woocommerce Bookings Extension
 
 ## Descripción
 Extensión Bookings de Tera.Chat Notifications, extiende las funciones de Tera.Chat Notifications agregando soporte para Woocommerce Bookings.
