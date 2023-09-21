@@ -20,8 +20,8 @@ Asegúrate de tener instalados y activados los siguientes plugins antes de utili
    - Enlace: [Terachat Notifications](https://github.com/bitsoncloud/terachat_notifications)
    - Nombre del directorio: `terachat_notifications`
 
-2. **Woocommerce Fllow Up Emails** - Versión 1.0 o superior.
-   - Enlace: [Follow Up Emails](https://woocommerce.com/products/woocommerce-bookings/)
+2. **Woocommerce Bookings** - Versión 1.0 o superior.
+   - Enlace: [Woocommerce Bookings](https://woocommerce.com/products/woocommerce-bookings/)
    - Nombre del directorio: `woocommerce-bookings`
 
 Estos plugins son necesarios para que Terachat Notifications Bookings Extension funcione correctamente, ya que utiliza sus funcionalidades para integrar las notificaciones con la plataforma externa "Tera Chat".
