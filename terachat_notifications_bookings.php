@@ -3,7 +3,7 @@
 Plugin Name: Terachat Notifications Woocommerce Bookings extension.
 Plugin URI: https://bitsoncloud.com
 Description: Compatibilidad con reservaciones en las Notificaciones de pedido para Woocommerce 
-Version: 0.9
+Version: 0.9.1
 Author: Bits On Cloud LLC
 Author URI: https://bitsoncloud.com
 */
