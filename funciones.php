@@ -101,8 +101,8 @@ function parseMSGBooking($msg, $booking_id, $from_state = ""){
     $msg = str_replace("[booking-status]", $estados[$reserva->get_status()], $msg);
     $msg = str_replace("[booking-previous-status]", $from_state, $msg);
     $msg = str_replace("[booking-date]", date("d/m/Y H:i", $reserva->get_date_created()), $msg);
-    $msg = str_replace("[booking-date-init]", $reserva->get_start_date("d/m/Y", " H:i"), $msg);
-    $msg = str_replace("[booking-date-end]", $reserva->get_end_date("d/m/Y", " H:i"), $msg);
+    $msg = str_replace("[booking-date-init]", $reserva->get_start_date(), $msg);
+    $msg = str_replace("[booking-date-end]", $reserva->get_end_date(), $msg);
     $msg = str_replace("[booking-product]", $reserva->get_product()->get_name(), $msg);
 
     $msg = apply_filters("tera_notif_booking_add_variables", $msg, $booking_id);
